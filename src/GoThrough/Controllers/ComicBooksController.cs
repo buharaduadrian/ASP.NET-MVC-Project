@@ -10,11 +10,7 @@ namespace GoThrough.Controllers
     {
         public ActionResult Detail()
         {
-            if (DateTime.Today.DayOfWeek == DayOfWeek.Wednesday)
-            {
-                return Redirect("/");
-            }
-            return Content("Hello from the Controller");
+            return View();
         }
     }
 }
