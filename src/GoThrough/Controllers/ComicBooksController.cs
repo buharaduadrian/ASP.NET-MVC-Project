@@ -11,7 +11,8 @@ namespace GoThrough.Controllers
     {
         public ActionResult Detail()
         {
-            var comiBook = new ComicBook()
+
+            var comicBook = new ComicBook()
             {
                 SeriesTitle = "The Amazing Spider-Man",
                 IssueNumber = 700,
@@ -26,8 +27,7 @@ namespace GoThrough.Controllers
                     new Artist(){ Name = "Chris Eliopoulos", Role = "Letters"},
                 }
             };
-            
-            return View(comiBook);
+            return View(comicBook);
         }
     }
 }
