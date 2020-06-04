@@ -50,14 +50,6 @@ D:\Radu\Projects\C#\ASP.NET-MVC-Project\src\GoThrough\bin\roslyn\vbc.exe.config
 D:\Radu\Projects\C#\ASP.NET-MVC-Project\src\GoThrough\bin\roslyn\vbc.rsp
 D:\Radu\Projects\C#\ASP.NET-MVC-Project\src\GoThrough\bin\roslyn\VBCSCompiler.exe
 D:\Radu\Projects\C#\ASP.NET-MVC-Project\src\GoThrough\bin\roslyn\VBCSCompiler.exe.config
-D:\Radu\Projects\C#\ASP.NET-MVC-Project\src\GoThrough\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\Radu\Projects\C#\ASP.NET-MVC-Project\src\GoThrough\bin\Microsoft.Web.Infrastructure.dll
-D:\Radu\Projects\C#\ASP.NET-MVC-Project\src\GoThrough\bin\System.Web.Helpers.dll
-D:\Radu\Projects\C#\ASP.NET-MVC-Project\src\GoThrough\bin\System.Web.Mvc.dll
-D:\Radu\Projects\C#\ASP.NET-MVC-Project\src\GoThrough\bin\System.Web.Razor.dll
-D:\Radu\Projects\C#\ASP.NET-MVC-Project\src\GoThrough\bin\System.Web.Webpages.Deployment.dll
-D:\Radu\Projects\C#\ASP.NET-MVC-Project\src\GoThrough\bin\System.Web.Webpages.dll
-D:\Radu\Projects\C#\ASP.NET-MVC-Project\src\GoThrough\bin\System.Web.Webpages.Razor.dll
 D:\Radu\Projects\C#\ASP.NET-MVC-Project\src\GoThrough\bin\System.Web.Razor.xml
 D:\Radu\Projects\C#\ASP.NET-MVC-Project\src\GoThrough\bin\System.Web.Webpages.xml
 D:\Radu\Projects\C#\ASP.NET-MVC-Project\src\GoThrough\bin\System.Web.Webpages.Deployment.xml
